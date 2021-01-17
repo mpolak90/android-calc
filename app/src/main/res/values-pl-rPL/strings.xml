@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prosty kalkulator</string>
+    <string name="comma">,</string>
+    <string name="bracketError">Nieprawidłowa ilość nawiasów</string>
+    <string name="zeroDivideException">Nie można dzielić przez zero</string>
+    <string name="invalidArguments">Nieprawidłowa ilość argumentów</string>
+    <string name="infinity">Wartość poza zakresem</string>
+    <string name="storage">Pamięć</string>
+</resources>

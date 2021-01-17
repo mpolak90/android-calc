@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="_0" translatable="false">0</string>
+    <string name="ans_0" translatable="false">Ans = 0</string>
+    <string name="xsquare" translatable="false">𝑥²</string>
+    <string name="ans" translatable="false">Ans</string>
+    <string name="exp" translatable="false">NUM</string>
+    <string name="_7" translatable="false">7</string>
+    <string name="_8" translatable="false">8</string>
+    <string name="_9" translatable="false">9</string>
+    <string name="divide" translatable="false">÷</string>
+    <string name="_1" translatable="false">1</string>
+    <string name="_2" translatable="false">2</string>
+    <string name="_3" translatable="false">3</string>
+    <string name="minus" translatable="false">−</string>
+    <string name="comma">.</string>
+    <string name="equals" translatable="false">=</string>
+    <string name="plus" translatable="false">+</string>
+    <string name="openBracket" translatable="false">(</string>
+    <string name="closeBracket" translatable="false">)</string>
+    <string name="percent" translatable="false">%</string>
+    <string name="ce" translatable="false">CE</string>
+    <string name="times" translatable="false">×</string>
+    <string name="_6" translatable="false">6</string>
+    <string name="_5" translatable="false">5</string>
+    <string name="_4" translatable="false">4</string>
+    <string name="bin" translatable="false">BIN</string>
+    <string name="hex" translatable="false">HEX</string>
+    <string name="dec" translatable="false">DEC</string>
+    <string name="c" translatable="false">C</string>
+    <string name="bracketError">Invalid bracket quantity</string>
+    <string name="zeroDivideException">Cannot divide by zero</string>
+    <string name="invalidArguments">Invalid arguments number</string>
+    <string name="sto" translatable="false">STO</string>
+    <string name="infinity">Value is out of range</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="storage">Storage</string>
+    <string name="empty">empty</string>
+</resources>
